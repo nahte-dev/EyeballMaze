@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/undo_move"
+        android:icon="@drawable/ic_undo_icon"
+        android:title="Undo Move"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/pause_game"
+        android:icon="@drawable/ic_pause_icon"
+        android:title="Pause Game"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/mute_audio"
+        android:icon="@drawable/ic_mute_icon"
+        android:title="Mute Audio"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/restart_game"
+        android:title="Restart Game"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/main_menu"
+        android:title="Quit to Menu"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/quit_game"
+        android:title="Quit to Home"
+        app:showAsAction="never"/>
+</menu>

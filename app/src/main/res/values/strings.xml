@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Eyeball Maze</string>
+    <string name="welcomeMessage">Welcome to Eyeball Maze!</string>
+    <string name="btn_quitGame">Quit Game</string>
+    <string name="btn_newGame">New Game</string>
+    <string name="btn_viewRules">View Rules</string>
+    <string name="txt_goalsCompleted">Goals Completed:</string>
+    <string name="txt_goalsLeft">Goals Left:</string>
+    <string name="txt_rules">Rules</string>
+    <string name="txt_moveCount">Move Count: </string>
+    <string name="txt_timer">Timer: </string>
+    <string name="txt_restart">Restart Level</string>
+    <string name="txt_resumeGame">Resume Game</string>
+    <string name="txt_paused">PAUSED</string>
+    <string name="txt_mainMenu">Main Menu</string>
+</resources>
